@@ -11,4 +11,6 @@ This application uses *CoinGecko API* to fetch latest cryptocurrencies market da
 You need **Expo** or Android Emulator / iOS Emulator for this application to work
 
 ## Screenshots from the application
-![Main Page](./Images/a.jpg) ![Secondary Page](./Images/b.jpg)
+
+<img src="./Images/a.jpg" alt="Main Page" width="200"/>
+<img src="./Images/b.jpg" alt="Main Page" width="200"/>
